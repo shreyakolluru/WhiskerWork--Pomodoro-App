@@ -1,20 +1,6 @@
 # 🕒 Work Faster – A Cute Pomodoro Timer App with React + Electron
 
-Hi, I’m Su Lei! 👋  
-In this beginner-friendly tutorial, I’ll guide you step by step through building a **cute and simple Pomodoro-style timer app** using **React**. Then, we’ll wrap it with **Electron.js** so you can run it as a real desktop application! 🖥️
-
-Don’t worry if you’re new to all this—we’ll take it slow and make it fun!
-
----
-
-## 🚀 What You’ll Learn
-
-- ✅ How to create a React app with TypeScript
-- ✅ How to integrate Electron for a desktop experience
-- ✅ How to test and build your app locally
-- ✅ How to keep your project clean and organized
-
----
+ **cute and simple Pomodoro-style timer app** using **React**.
 
 ## 🧰 Prerequisites
 
