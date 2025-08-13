@@ -1,4 +1,4 @@
-# 🕒 Work Faster – A Cute Pomodoro Timer App with React + Electron
+# 🕒 Whisker Work – A Cute Pomodoro Timer App with React + Electron
 
  **cute and simple Pomodoro-style timer app** using **React**.
 
